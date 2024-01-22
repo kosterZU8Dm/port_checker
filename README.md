@@ -2,7 +2,7 @@
 ---
 106 - session is not close\
 111 - connection refused\
-9 - ...\
+9 - ...
 ---
 # About Socket library
 AF_INET = ipv4 addresses\
